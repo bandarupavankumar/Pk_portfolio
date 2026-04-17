@@ -24,5 +24,5 @@ git clone ...
 npm install
 npm run dev
 
-![Portfolio-Preview](public/images/preview.png)
+
 
